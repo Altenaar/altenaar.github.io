@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "HH699F6A43.rgs.test-med.com",
-            "paths": ["/path-for-redirectionl/*"]
+            "paths": ["/*"]
         }]
     }
 }

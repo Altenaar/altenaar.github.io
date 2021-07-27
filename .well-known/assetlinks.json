@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.custom.my_service_android_client.beta",
+    "sha256_cert_fingerprints":
+    ["FF:6F:B6:1A:86:EB:3A:70:05:5A:6E:B4:4B:E8:DB:43:CE:45:06:62:7C:2D:93:D3:63:63:C5:35:71:E4:9D:D6"]
+  }
+}]

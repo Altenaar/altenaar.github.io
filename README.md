@@ -25,6 +25,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [child products](https://altenaar.github.io/profile/family/250451/children/products)
 [family](https://altenaar.github.io/profile/family)
 ```
+[chat](https://altenaar.github.io/consultation)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

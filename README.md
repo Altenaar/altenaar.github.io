@@ -9,21 +9,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-[Link](https://altenaar.github.io/consultation)
-[Link](https://altenaar.github.io/profile/medcard/order/85094)
-[Link](https://altenaar.github.io/profile/notifications)
-[Link](https://altenaar.github.io/consultation/11451)
-[Link](https://pmed.moi-service.ru/profile/settings)
-[Link](https://pmed.moi-service.ru/profile/family/250451/children/settings)
-[Link](https://pmed.moi-service.ru/login)
-[Link](https://pmed.moi-service.ru/profile)
-[Link](https://pmed.moi-service.ru/profile/250451/medcard/anamnesis)
-[Link](https://pmed.moi-service.ru/activation/promocode)
-[Link](https://pmed.moi-service.ru/doctors?{{параметры фильтрации}})
-[Link](https://pmed.moi-service.ru/clinics?{{параметры фильтрации}})
-[Link](https://pmed.moi-service.ru/profile/products)
-[Link](https://pmed.moi-service.ru/profile/family/250451/children/products)
-[Link](https://pmed.moi-service.ru/profile/family)
+[chat](https://altenaar.github.io/consultation)
+[order](https://altenaar.github.io/profile/medcard/order/85094)
+[notifications](https://altenaar.github.io/profile/notifications)
+[chat](https://altenaar.github.io/consultation/11451)
+[settings](https://altenaar.github.io/profile/settings)
+[child settings](https://altenaar.github.io/profile/family/250451/children/settings)
+[login](https://altenaar.github.io/login)
+[profile](https://altenaar.github.io/profile)
+[health card](https://altenaar.github.io/profile/250451/medcard/anamnesis)
+[promocode](https://altenaar.github.io/activation/promocode)
+[doctors](https://altenaar.github.io/doctors?{{параметры фильтрации}})
+[clinics](https://altenaar.github.io/clinics?{{параметры фильтрации}})
+[products](https://altenaar.github.io/profile/products)
+[child products](https://altenaar.github.io/profile/family/250451/children/products)
+[family](https://altenaar.github.io/profile/family)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

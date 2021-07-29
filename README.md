@@ -9,10 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-[Link](https://pmed.moi-service.ru/consultation)
-[Link](https://pmed.moi-service.ru/profile/medcard/order/85094)
-[Link](https://pmed.moi-service.ru/profile/notifications)
-[Link](https://pmed.moi-service.ru/consultation/11451)
+[Link](https://altenaar.github.io/consultation)
+[Link](https://altenaar.github.io/profile/medcard/order/85094)
+[Link](https://altenaar.github.io/profile/notifications)
+[Link](https://altenaar.github.io/consultation/11451)
 [Link](https://pmed.moi-service.ru/profile/settings)
 [Link](https://pmed.moi-service.ru/profile/family/250451/children/settings)
 [Link](https://pmed.moi-service.ru/login)

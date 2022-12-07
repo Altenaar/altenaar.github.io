@@ -2,7 +2,7 @@
     "applinks": {
       "details": [
            {
-             "appIDs": [ "HH699F6A43.rgs.test-med.com" ],
+             "appIDs": [ "P5B85VLT63.com.lime-shop.lime.dev" ], [ "P5B85VLT63.com.lime-shop.lime" ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -10,13 +10,16 @@
                   "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
                },
                {
-                  "/": "/*",
-                  "comment": "Matches any URL whose path starts with /buy/"
+                  "/": "/catalog/*",
+                  "comment": "Matches any URL whose path starts with /catalog/"
                },
                {
-                  "/": "/help/website/*",
-                  "exclude": true,
-                  "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
+                  "/": "/product/*",
+                  "comment": "Matches any URL whose path starts with /product/"
+               },
+               {
+                  "/": "/lp/*",
+                  "comment": "Matches any URL whose path starts with /lp/"
                },
                {
                   "/": "/help/*",

@@ -2,7 +2,7 @@
     "applinks": {
       "details": [
            {
-             "appIDs": [ "P5B85VLT63.com.lime-shop.lime.dev" ], [ "P5B85VLT63.com.lime-shop.lime" ],
+             "appIDs": [ "P5B85VLT63.com.lime-shop.lime.dev", "P5B85VLT63.com.lime-shop.lime" ],
              "components": [
                {
                   "#": "no_universal_links",

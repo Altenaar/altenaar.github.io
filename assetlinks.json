@@ -1,9 +1,20 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.custom.my_service_android_client.beta",
-    "sha256_cert_fingerprints":
-    ["FF:6F:B6:1A:86:EB:3A:70:05:5A:6E:B4:4B:E8:DB:43:CE:45:06:62:7C:2D:93:D3:63:63:C5:35:71:E4:9D:D6"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.limeshop.android",
+      "sha256_cert_fingerprints":
+      ["BB:B1:59:6F:B9:5E:A9:AE:5B:30:99:A6:13:4C:CE:C4:A6:7E:81:F2:19:FD:14:92:25:4B:7D:1E:0C:8E:FF:69"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.limeshop.android.dev",
+      "sha256_cert_fingerprints":
+      ["BB:B1:59:6F:B9:5E:A9:AE:5B:30:99:A6:13:4C:CE:C4:A6:7E:81:F2:19:FD:14:92:25:4B:7D:1E:0C:8E:FF:69"]
+    }
   }
-}]
+]

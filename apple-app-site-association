@@ -5,6 +5,10 @@
       {
         "appID": "P5B85VLT63.com.lime-shop.lime.dev",
         "paths": ["/catalog/*", "/product/*", "/lp/*"]
+      },
+      {
+        "appID": "P5B85VLT63.com.lime-shop.lime",
+        "paths": ["/catalog/*", "/product/*", "/lp/*"]
       }
     ]
   }

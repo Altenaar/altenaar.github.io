@@ -16,5 +16,16 @@
       "sha256_cert_fingerprints":
       ["BB:B1:59:6F:B9:5E:A9:AE:5B:30:99:A6:13:4C:CE:C4:A6:7E:81:F2:19:FD:14:92:25:4B:7D:1E:0C:8E:FF:69"]
     }
-  }
+  },
+  [
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "ru.limeshop.android.dev",
+            "sha256_cert_fingerprints":
+            ["AD:0E:60:CC:1E:A1:BD:27:C6:E1:2D:47:0A:E6:A2:A2:FD:2D:4C:B3:BA:D4:52:63:ED:B0:FF:06:6C:91:27:CE"]
+        }
+    }
+]
 ]

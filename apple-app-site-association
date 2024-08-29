@@ -4,11 +4,41 @@
     "details": [
       {
         "appID": "P5B85VLT63.com.lime-shop.lime",
-        "paths": ["/catalog/*", "/product/*", "/lp/*"]
+        "paths": [
+            "/catalog/*",
+            "/ru_ru/catalog/*",
+            "/product/*",
+            "/ru_ru/product/*",
+            "/lp/*",
+            "/ru_ru/lp/*",
+            "/main/*",
+            "/ru_ru/main/*",
+            "/profile/*",
+            "/ru_ru/profile/*",
+            "/cart/*",
+            "/ru_ru/cart/*",
+            "/order/detail/*",
+            "/ru_ru/order/detail/*"
+        ]
       },
       {
         "appID": "P5B85VLT63.com.lime-shop.lime.dev",
-        "paths": ["/catalog/*", "/product/*", "/lp/*"]
+        "paths": [
+            "/catalog/*",
+            "/ru_ru/catalog/*",
+            "/product/*",
+            "/ru_ru/product/*",
+            "/lp/*",
+            "/ru_ru/lp/*",
+            "/main/*",
+            "/ru_ru/main/*",
+            "/profile/*",
+            "/ru_ru/profile/*",
+            "/cart/*",
+            "/ru_ru/cart/*",
+            "/order/detail/*",
+            "/ru_ru/order/detail/*"
+        ]
       }
     ]
   }

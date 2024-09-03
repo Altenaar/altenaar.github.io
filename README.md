@@ -37,9 +37,13 @@ Choose the neccessary deep link option from below to proceed to the selected add
 - [order](https://altenaar.github.io/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
 - [order_ru_ru](https://altenaar.github.io/ru_ru/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
 
-#### Андрей Коротаев
-- [order](https://altenaar.github.io/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
-- [order_ru_ru](https://altenaar.github.io/ru_ru/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
+#### Татьяна Фадеева
+- [order12501707](https://altenaar.github.io/order/detail/d9b0b268-6205-4754-8bb8-a866bc0b01c5)
+- [order12501707_ru_ru](https://altenaar.github.io/ru_ru/order/detail/d9b0b268-6205-4754-8bb8-a866bc0b01c5)
+- [order12500228](https://altenaar.github.io/order/detail/01ae02a9-6242-49a9-b920-be2916fbd65f)
+- [order12500228_ru_ru](https://altenaar.github.io/ru_ru/order/detail/01ae02a9-6242-49a9-b920-be2916fbd65f)
+- [order13119678](https://altenaar.github.io/order/detail/26ecb2bb-f51b-499a-9eb9-cb8c1613d45a)
+- [order13119678_ru_ru](https://altenaar.github.io/ru_ru/order/detail/26ecb2bb-f51b-499a-9eb9-cb8c1613d45a)
 
 ---
 
@@ -110,6 +114,10 @@ Choose the neccessary deep link option from below to proceed to the selected add
 - [order](https://lime-shop.com/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
 - [order_ru_ru](https://lime-shop.com/ru_ru/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
 
-#### Андрей Коротаев
-- [order](https://lime-shop.com/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
-- [order_ru_ru](https://lime-shop.com/ru_ru/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
+#### Татьяна Фадеева
+- [order12501707](https://altenaar.github.io/order/detail/d9b0b268-6205-4754-8bb8-a866bc0b01c5)
+- [order12501707_ru_ru](https://altenaar.github.io/ru_ru/order/detail/d9b0b268-6205-4754-8bb8-a866bc0b01c5)
+- [order12500228](https://altenaar.github.io/order/detail/01ae02a9-6242-49a9-b920-be2916fbd65f)
+- [order12500228_ru_ru](https://altenaar.github.io/ru_ru/order/detail/01ae02a9-6242-49a9-b920-be2916fbd65f)
+- [order13119678](https://altenaar.github.io/order/detail/26ecb2bb-f51b-499a-9eb9-cb8c1613d45a)
+- [order13119678_ru_ru](https://altenaar.github.io/ru_ru/order/detail/26ecb2bb-f51b-499a-9eb9-cb8c1613d45a)

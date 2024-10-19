@@ -18,7 +18,9 @@
             "/cart*",
             "/ru_ru/cart*",
             "/order/detail/*",
-            "/ru_ru/order/detail/*"
+            "/ru_ru/order/detail/*",
+            "/home_screen*",
+            "/ru_ru/home_screen*"
         ]
       },
       {
@@ -37,7 +39,9 @@
             "/cart*",
             "/ru_ru/cart*",
             "/order/detail/*",
-            "/ru_ru/order/detail/*"
+            "/ru_ru/order/detail/*",
+            "/home_screen*",
+            "/ru_ru/home_screen*"
         ]
       }
     ]

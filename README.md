@@ -32,6 +32,10 @@ Choose the neccessary deep link option from below to proceed to the selected add
 - [profile](https://altenaar.github.io/profile)
 - [profile_ru_ru](https://altenaar.github.io/ru_ru/profile)
 
+### Home_screen
+- [home_screen](https://altenaar.github.io/home_screen)
+- [home_screen_ru_ru](https://altenaar.github.io/ru_ru/home_screen)
+
 ### Order
 #### Андрей Коротаев
 - [order](https://altenaar.github.io/order/detail/5802e999-57a9-4e99-bd50-ebf259c99ada)
@@ -108,6 +112,10 @@ Choose the neccessary deep link option from below to proceed to the selected add
 ### Profile
 - [profile](https://lime-shop.com/profile)
 - [profile_ru_ru](https://lime-shop.com/ru_ru/profile)
+- 
+### Home_screen
+- [home_screen](https://lime-shop.com/home_screen)
+- [home_screen_ru_ru](https://lime-shop.com/ru_ru/home_screen)
 
 ### Order
 #### Андрей Коротаев

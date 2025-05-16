@@ -20,7 +20,9 @@
             "/order/detail/*",
             "/ru_ru/order/detail/*",
             "/home_screen*",
-            "/ru_ru/home_screen*"
+            "/ru_ru/home_screen*",
+            "/favorite*",
+            "/ru_ru/favorite*"
         ]
       },
       {
@@ -41,7 +43,9 @@
             "/order/detail/*",
             "/ru_ru/order/detail/*",
             "/home_screen*",
-            "/ru_ru/home_screen*"
+            "/ru_ru/home_screen*",
+            "/favorite*",
+            "/ru_ru/favorite*"
         ]
       }
     ]
